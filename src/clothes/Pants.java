@@ -1,4 +1,6 @@
 package clothes;
 
-public class Pants {
+public interface Pants {
+    void wear();
 }
+
